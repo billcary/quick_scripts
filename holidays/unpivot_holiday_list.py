@@ -32,6 +32,11 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+The data file 'Holidays.xls' was released by Don McMunn (2007) and is licensed
+under the Creative Commons Attribution 3.0 License, available here:
+http://creativecommons.org/licenses/by/3.0/.  The data file is available at the
+following location: http://www.ipcdesigns.com/dim_date/Holidays.xls.
+
 History:
 
 Date            Author          Purpose
